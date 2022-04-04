@@ -12,8 +12,8 @@
 	</div>
 	<div class="navigasi">
 			<ul>
-				<li><a href="index.html">HOME</a></li>
-				<li><a href="about.html">ABOUT</a></li>
+				<li><a href="index.php">HOME</a></li>
+				<li><a href="about.php">ABOUT</a></li>
 			</ul>
 	</div>
 </header>
